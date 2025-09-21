@@ -2,26 +2,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pranav%20Saji&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,5,30,45,60" width="100%" />
 
 # 👋 Hi, I’m Pranav Saji  
-**Versatile AI & Full-Stack Engineering Professional | Builder of Scalable, Impactful Systems**
+**AI & Full-Stack Engineering Leader | Driving Innovation, Scale & Multimillion-Dollar Impact**
 
 ---
 
 ## 🌟 About Me  
-🔹 8+ years experience across **startups, enterprises & consulting**  
-🔹 Delivered **multimillion-dollar AI outcomes** (fraud detection, lifestyle, real estate, genomics)  
-🔹 Expert in **Generative AI, Multi-Cloud Infrastructure (AWS | Azure | GCP), Full-Stack Dev**  
-🔹 Proven leader: scaled **15+ member teams**, shipped **mission-critical platforms**, and drove **0→1 product launches**  
+🔹 **8+ years** building **AI-first platforms** across startups, enterprises, and consulting.  
+🔹 Architected & deployed systems with **multimillion-dollar business outcomes** in fraud detection, healthcare, lifestyle, and real estate.  
+🔹 Specialized in **Generative AI, Multi-Cloud Infra (AWS, Azure, GCP), Full-Stack Development**.  
+🔹 Leader & founder: scaled **15+ member teams**, drove **0→1 launches**, and translated business goals into **scalable, secure architectures**.  
 
-💡 Motto: *“Building systems that don’t just work, but inspire.”*  
+💡 *“I don’t just build products, I build platforms that create lasting value.”*  
 
 ---
 
-## 🏆 Highlighted Achievements
-- ⚡ **LinkedIn (Consultant)** – Built secure Azure Databricks pipelines integrating 21 apps across 50 envs; delivered **90% accurate AI triage agent** (Amazon, Google, Meta).  
-- 🌍 **BreatheIT (CTO, Founding Engineer)** – Launched holistic lifestyle platform (AI journaling, GenAI recs, Stripe payouts) → **60% boost in user satisfaction**.  
-- 🏗 **Referrio (Cofounder, CTO)** – Delivered AI referral marketplace MVP in **2 months (66% faster)**; Stripe-integrated payouts + AI candidate scoring.  
-- 🏥 **Syndicated Bio** – Architected **HIPAA/GDPR-compliant TRE** across AWS/GCP → 70+ secure workflows for global hospitals.  
-- 🏡 **FlairLabs** – Built GenAI real estate search (“5 bed SF home with pool in good school district”) → **real-time property + agent insights**.  
+## 🏆 Career Highlights
+- ⚡ **LinkedIn (ML Consultant)** – Delivered **AI agent for InfoSec triage** (Amazon, Google, Meta) with **90% accuracy**, saving **multiple quarters of engineering time**. Built secure Azure Databricks pipelines across 21 SaaS apps → **millions of records processed daily**.  
+- 🌍 **BreatheIT (CTO, Founding Engineer)** – Launched lifestyle AI platform with **7 life domains** (health, finance, branding, etc.) → boosted user satisfaction **+60%**, powering **thousands of daily active users**.  
+- 🏗 **Referrio (Cofounder, CTO)** – Built dual-platform referral MVP in **2 months** (ahead of 6-month roadmap) → enabled **Stripe payouts** and **AI-driven candidate scoring**; drove **early revenue & traction**.  
+- 🏥 **Syndicated Bio (AI Consultant)** – Architected **HIPAA/GDPR-compliant TRE** for hospitals → enabled **secure, multimillion-dollar clinical research workflows**.  
+- 🏡 **FlairLabs (Founding Engineer)** – Built GenAI real estate system (natural language → SQL → property matches) → **real-time property insights** for users & agents.  
+
+💰 **Total portfolio impact: multiple multimillion-dollar wins for clients & companies.**  
 
 ---
 
@@ -53,12 +55,12 @@
 
 ---
 
-## 📌 Pinned Projects (Showcase)
-🔹 [**Trustworthy Study Search**](https://github.com/pranavsaji/Trustworthy-Study-Search) – AI-powered study engine (Google CSE + YouTube previews)  
-🔹 [**Job Scout Agent**](https://github.com/pranavsaji/job-scout-agent) – Job scraping, cleaning & AI filtering agent  
-🔹 [**FlairLabs Real Estate Platform**](https://github.com/pranavsaji) – Full-stack GenAI real estate query system  
-🔹 [**Fraud Detection System**](https://github.com/pranavsaji) – Kafka + XGBoost real-time fraud detection  
-🔹 [**Conversation Analytics App**](https://github.com/pranavsaji) – AI insights from customer convos (FastAPI + React)  
+## 📌 Showcase Projects (Pinned Repos)
+🔹 [**Trustworthy Study Search**](https://github.com/pranavsaji/Trustworthy-Study-Search) – Academic & video search with previews  
+🔹 [**Job Scout Agent**](https://github.com/pranavsaji/job-scout-agent) – Smart job scraping & export agent  
+🔹 [**FlairLabs Real Estate Platform**](https://github.com/pranavsaji) – GenAI-powered property finder  
+🔹 [**Fraud Detection System**](https://github.com/pranavsaji) – Kafka + ML real-time fraud detection  
+🔹 [**Conversation Analytics App**](https://github.com/pranavsaji) – Customer insights from convos (FastAPI + React)  
 🔹 [**Forex FinGPT System**](https://github.com/pranavsaji) – HuggingFace FinGPT + MetaTrader AI trading  
 
 ---
@@ -76,6 +78,15 @@
 
 ---
 
+## ⚠️ Note on Contributions  
+While my **GitHub graph shows selected public repos**, a significant portion of my work has been:  
+- 🚀 **Within company systems (LinkedIn, Referrio, BreatheIT, Syndicated Bio, Deloitte, etc.)**  
+- 🔒 **Deployed to private environments under NDA, enterprise-grade infra, and secure client repos**  
+
+👉 **What you see here is just the tip of the iceberg** — the majority of my engineering impact lies behind enterprise firewalls, powering **real users, revenue, and multimillion-dollar outcomes**.  
+
+---
+
 ## 🎓 Certifications
 - Microsoft Certified: Azure AI Engineer Associate  
 - Oracle Cloud Infrastructure Generative AI Professional  
@@ -88,7 +99,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-saji/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/pranavsaji"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://pranavsaji.my.canva.site"><img src="https://img.shields.io/badge/-Portfolio-FF4088?logo=vercel&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:pranavs.mec@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
 
